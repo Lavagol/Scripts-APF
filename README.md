@@ -4,7 +4,7 @@ Simulaciones del método de **Campos Potenciales Artificiales (APF)** usadas en 
 - **Anexo C tablas un obtáculo y tres obst. del capítulo 5:** `scripts/anexoC_apf_basico.py`
 - **Mejoras (preventivo + escape lateral), capítulo 5:** `scripts/mejoras_APF_preventivo_escape.py`
 
-El objetivo es reproducir el **método APF** y mostrar dos mejoras para mitigar sus desventajas: **fuerza tangencial preventiva** y **escape lateral de emergencia**.
+El objetivo es demostrar el **método APF** y mostrar dos mejoras para mitigar sus desventajas: **fuerza tangencial preventiva** y **escape lateral de emergencia**.
 
 ---
 
