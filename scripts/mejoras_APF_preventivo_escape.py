@@ -54,7 +54,8 @@ safety_dist      = 4.0                             # umbral de colisión para pr
 
 # Inercia (momentum), no se ocupa!!!!!!!! 
 v_prev           = np.zeros(2)
-alpha            = 0.30           # fracción de inercia (0=no inercia, 1=solo inercia)
+alpha            = 0.0           # fracción de inercia (0=no inercia, 1=solo inercia)
+#Nota: la inercia (alpha) se deja en 0, por lo que no modifica la dirección. Se conserva por compatibilidad.
 
 # ---------------- Escenario ----------------
 obstacles = [
